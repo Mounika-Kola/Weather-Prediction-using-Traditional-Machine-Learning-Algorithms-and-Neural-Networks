@@ -1,0 +1,2 @@
+# Weather-Prediction-using-Traditional-Machine-Learning-Algorithms-and-Neural-Networks
+Used traditional Machine Learning algorithms (Linear Regression, Lasso, Ridge, Elastic Net, SVR, Decision trees) and ANN, RNN, LSTM, GRU for time-series forecasting, Applied Standard and MinMax scaling, and used k-fold cross-validation for model validation, Optimized model performance through hyperparameter tuning with GridSearchCV.
